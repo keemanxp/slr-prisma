@@ -1,4 +1,4 @@
-# slr-prisma
+# Claude Skill for Systematic Literature Review - PRISMA (slr-prisma)
 
 A Claude skill that walks you through writing a systematic literature review following the PRISMA 2020 framework.
 
