@@ -1,6 +1,6 @@
-MIT License
+MIT Licence
 
-Copyright (c) 2026 Kee-Man Chuah
+Copyright (c) 2026
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,10 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+Note: The PRISMA 2020 checklist and flow diagram content included in the
+references/ directory is sourced from Page et al. (2021) and is licensed
+under the Creative Commons Attribution 4.0 International Licence (CC BY 4.0).
+See https://creativecommons.org/licenses/by/4.0/
