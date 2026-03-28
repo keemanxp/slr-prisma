@@ -22,9 +22,12 @@ It also handles partial requests — just the Methods section, just a flow diagr
 
 ## Installation
 
-Download the `.skill` file from [Releases](../../releases) and install it in Claude.
-
+Download the `slr-prisma.skill` file from [Releases](../../releases) and install it in Claude (Customise>Skills)
 Alternatively, copy the `SKILL.md` and `references/` folder into your Claude skills directory.
+
+## How to Start Using
+
+Enable this skills in Claude. Then whenever you prompt "Peform a literature review on TOPIC" it will begin reading the skill file to assist you. Respond to the questions given to you clearly. This will help enhance accuracy of your review. Happy Trying!
 
 ## File structure
 
