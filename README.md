@@ -24,11 +24,11 @@ It also handles partial requests — just the Methods section, just a flow diagr
 
 ## Key Features
 
-- **✅Strict journal article format** — Manuscript structure now follows the standard format expected by peer-reviewed journals, with proper title page, numbered sections, declarations, and tables/figures at the end.
-- **✅Annotated PRISMA flow diagram** — Detailed guidance explaining what goes in each box, with a visual diagram generated for learning purposes.
-- **✅APA 7th Edition referencing** — Built-in enforcement of APA 7th for all citations and references, with verification via web search.
-- **✅Drafting conventions** — Explicit rules for academic register, tense usage, citation requirements, and table/figure formatting.
-- **✅Expanded flow diagram reference** — The `references/flow-diagram.md` now includes annotated tables showing what to put in each box and how to get each number.
+**✅Strict journal article format** — Manuscript structure now follows the standard format expected by peer-reviewed journals, with proper title page, numbered sections, declarations, and tables/figures at the end.
+**✅Annotated PRISMA flow diagram** — Detailed guidance explaining what goes in each box, with a visual diagram generated for learning purposes.
+**✅APA 7th Edition referencing** — Built-in enforcement of APA 7th for all citations and references, with verification via web search.
+**✅Drafting conventions** — Explicit rules for academic register, tense usage, citation requirements, and table/figure formatting.
+**✅Expanded flow diagram reference** — The `references/flow-diagram.md` now includes annotated tables showing what to put in each box and how to get each number.
 
 ## Installation
 
