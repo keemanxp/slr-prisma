@@ -14,7 +14,7 @@ The skill runs in five phases.
 
 **Phase 3 — PRISMA flow diagram.** Selects the correct template (new or updated review, databases only or other sources), confirms the numbers, and builds the diagram as a table inside the Word document.
 
-**Phase 4 — Word document.** Compiles the full manuscript as a .docx with A4 formatting, Table of Contents, heading styles, and the flow diagram embedded in the Results section.
+**Phase 4 — Word document.** Compiles the full manuscript as a .docx with A4 formatting, heading styles, and the flow diagram embedded in the Results section.
 
 **Phase 5 — Checklist audit (optional).** Maps each of the 27 PRISMA items to where it appears in the manuscript, flagging anything missing or incomplete.
 
