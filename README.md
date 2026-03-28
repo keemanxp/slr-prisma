@@ -1,5 +1,8 @@
 # Claude Skill for Systematic Literature Review - PRISMA (slr-prisma)
 
+<img width="1850" height="402" alt="slr-prisma" src="https://github.com/user-attachments/assets/111ee8e2-a2ae-4390-a4fc-ada0f50cb46a" />
+
+
 A Claude skill that walks you through writing a systematic literature review following the PRISMA 2020 framework.
 
 It covers the full 27-item PRISMA 2020 checklist, produces a Word document manuscript in **strict journal article format**, generates an **annotated PRISMA flow diagram**, and enforces **APA 7th Edition referencing** throughout. It does not cover meta-analysis or statistical pooling.
