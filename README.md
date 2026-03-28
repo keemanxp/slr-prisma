@@ -32,7 +32,7 @@ It also handles partial requests — just the Methods section, just a flow diagr
 
 ## Installation
 
-Download the `slr-prisma.skill` file from [Releases](https://github.com/keemanxp/slr-prisma/releases) and install it in Claude (Customise > Skills).
+👉🏽Download the `slr-prisma.skill` file from [Releases](https://github.com/keemanxp/slr-prisma/releases) and install it in Claude (Customise > Skills).
 
 Alternatively, copy the `SKILL.md` and `references/` folder into your Claude skills directory.
 
